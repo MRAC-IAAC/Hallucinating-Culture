@@ -7,7 +7,11 @@ The aim is the imagining of unbuild architecture with help of Machine Learning.
 It is divided into three main branches:
 
 #### 1. Data Collection
-The first part will cover ...
+The first part will cover the preparation of our dataset. 
+We were exploring the city of Barcelona and takind snapshots of architectural columns.
+
+To create a kind of streamlined process we are proposing some tools for a process-pipeline:
+Camrea footage  -  Cutout with Computer Vision  -  Resize and rename with Python
 
 
 #### 2. Machine Learning
