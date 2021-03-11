@@ -1,6 +1,5 @@
 # Hallucinating-Culture
 H.2 HARDWARE II SEMINAR MRAC 20/21
-
 ---
 
 The Project `Hallucinating Culture` is an exploration into the latest achievements of Machine Learning. Within the last years ...
