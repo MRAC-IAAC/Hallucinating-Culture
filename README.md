@@ -1,7 +1,12 @@
 # Hallucinating-Culture
 H.2 HARDWARE II SEMINAR MRAC 20/21
+---
 
-[[/Hallucinating-Culture/02_MACHINE_LEARNING/docs/Hallucinating_Culture_Opener.jpg|Overview of generated Column after X hours of training]]
+The Project 'Hallucinating Culture' is an exploration into AI and aims to experiment with Machine Learning to create artificial but maybe inspirational images of architecture. Within the recend years many papers around the realm of Artificial Intelligence were released. The use of Machine Learning to generate images by training and running your own generative adversial network became very popular.
+
+
+
+![AI generated Columns after xx hours of training](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/docs/Hallucinating_Culture_Opener.jpg?raw=true)
 
 ## Project Overview
 The Project 'Hallucinating Culture' was developed during the Hardware II Seminar in 2021.
