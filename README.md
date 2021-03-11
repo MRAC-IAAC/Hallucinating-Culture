@@ -1,8 +1,7 @@
 # Hallucinating-Culture
 H.2 HARDWARE II SEMINAR MRAC 20/21
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![AI generated Columns after xx hours of training](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/docs/Hallucinating_Culture_Opener.jpg?raw=true)
 
 ## Project Overview
 The Project 'Hallucinating Culture' was developed during the Hardware II Seminar in 2021.
