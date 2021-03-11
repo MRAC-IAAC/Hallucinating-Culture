@@ -19,7 +19,7 @@ Here the full process of the [Preparation of the Dataset](https://github.com/MRA
 #### 2. Machine Learning
 This part will cover ...
 
-Here the full process of setting up the Machine Learning with [Adversial Network of StyleGAN2](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md) in Google Colab.
+Here the full process of setting up the Machine Learning with [Machine Learning Network](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md) with the use of StyleGAN2 in Google Colab.
 
 
 #### 3. Presentation
