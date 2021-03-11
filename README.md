@@ -23,7 +23,7 @@ Camera footage  -  GrabCut_Opencv with Computer Vision  -  Resize and rename wit
 Here the full process of the [Preparation of the Dataset](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/01_DATA_COLLECTION/README.md).
 
 
-#### 2. [Machine Learning](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md)
+#### 2. Machine Learning
 This part will cover ...
 
 Here the full process of setting up the Machine Learning with [Machine Learning Network](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md) with the use of StyleGAN2 in Google Colab.
