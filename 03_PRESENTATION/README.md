@@ -13,5 +13,5 @@ a1. script_sensor_PAJ7620U2. The code that launches the video, the sensor and th
 a2. bcm2835.64. All needed drivers and system to run the gesture sensor on the Raspberry Pi.
 
 b.  Doc:
-b1. Rhino model related to DIY acrylic Box.
+b1. Rhino model related to built display console.
 b2. Video example to run.
