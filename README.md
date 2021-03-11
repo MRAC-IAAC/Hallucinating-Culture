@@ -1,6 +1,8 @@
 # Hallucinating-Culture
 H.2 HARDWARE II SEMINAR MRAC 20/21
 
+[[/Hallucinating-Culture/02_MACHINE_LEARNING/docs/Hallucinating_Culture_Opener.jpg|Overview of generated Column after X hours of training]]
+
 ## Project Overview
 The Project 'Hallucinating Culture' was developed during the Hardware II Seminar in 2021.
 The aim is the imagining of unbuild architecture with help of Machine Learning.
