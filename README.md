@@ -13,6 +13,8 @@ We were exploring the city of Barcelona and takind snapshots of architectural co
 To create a kind of streamlined process we are proposing some tools for a process-pipeline:
 Camrea footage  -  Cutout with Computer Vision  -  Resize and rename with Python
 
+[Here the full process](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/01_DATA_COLLECTION/README.md)
+
 
 #### 2. Machine Learning
 This part will cover ...
