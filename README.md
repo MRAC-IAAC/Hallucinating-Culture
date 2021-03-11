@@ -1,5 +1,5 @@
 # Hallucinating-Culture
-H.2 HARDWARE II SEMINAR MRAC 20/21
+H.2 HARDWARE II SEMINAR MRAC 2020/21
 ---
 
 The Project 'Hallucinating Culture' is an exploration into AI and aims to experiment with Machine Learning to create artificial but maybe inspirational images of architecture. Within the recend years many papers around the realm of Artificial Intelligence were released. The use of Machine Learning to generate images by training and running your own generative adversial network became very popular.
