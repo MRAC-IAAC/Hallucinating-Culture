@@ -6,12 +6,13 @@ The Project 'Hallucinating Culture' was developed during the Hardware II Seminar
 The aim is the imagining of unbuild architecture with help of Machine Learning.
 It is divided into three main branches:
 
-#### Data Collection
+#### 1. Data Collection
 The first part will cover ...
 
-#### Machine Learning
+
+#### 2. Machine Learning
 This part will cover ...
 
 
-#### Presentation
+#### 3. Presentation
 This part will cover ...
