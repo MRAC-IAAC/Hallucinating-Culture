@@ -24,13 +24,14 @@ Here the full process of the [Preparation of the Dataset](https://github.com/MRA
 
 
 #### 2. Machine Learning
-This part will cover ...
+This part is dedicated to the Machine Learning task itself. We are using the StyleGAN2 Repository of NVIDIA Labs in cmbination with running the training in Google Colab. 
+The cloning of the Github Repository happens inside of the Goolge Colab file into your own Google Drive. 
 
 Here the full process of setting up the Machine Learning with [Machine Learning Network](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md) with the use of StyleGAN2 in Google Colab.
 
 
 #### 3. Presentation
-This part will cover ...
+This part of this Repository is covering the building of a semi-holographic display to visualize the generated architectural features in a more appealing way.
 
 Here the full process of the preparation for the [Hologram Screen](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/03_PRESENTATION).
 
