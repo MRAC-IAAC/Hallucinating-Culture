@@ -29,9 +29,13 @@ The cloning of the Github Repository happens inside of the Goolge Colab file int
 
 Here the full process of setting up the Machine Learning with [Machine Learning Network](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/02_MACHINE_LEARNING/README.md) with the use of StyleGAN2 in Google Colab.
 
-
 #### 3. Presentation
 This part of this Repository is covering the building of a semi-holographic display to visualize the generated architectural features in a more appealing way.
 
 Here the full process of the preparation for the [Hologram Screen](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/03_PRESENTATION).
+
+#### 4. Credits
+Hallucinating Culture // HARDWARE II is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at the Master in Robotics and Advanced Construction in 2020/2021 by:
+
+Students: Hendrik Benz, Alberto Browne, Michael DiCarlo // Faculty: Óscar González // Faculty Assistant: Antoine Jaunard //
 
