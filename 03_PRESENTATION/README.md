@@ -3,7 +3,6 @@
 In this folder, you will find several libraries needed in order to run the example script that is also provided in the Scripts folder.
 All the files, scripts, repositories and softwares are need to install in Raspberry Pi 3
 
-![video](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/03_PRESENTATION/docs/video/video_example.mp4?raw=true)
 
 #### 1. Components that are necessary to run and visualize Pepper Ghost's effect:
 
@@ -41,6 +40,8 @@ a1. script_sensor_PAJ7620U2. The code that launches the video, the sensor and th
 
 b.  Doc:
 b1. Rhino6 model related to built DIY acrylic Box.
+
 b2. Video example to run.
+
 b3. [README](https://github.com/MRAC-IAAC/Hallucinating-Culture/blob/main/03_PRESENTATION/docs/README.md). Instruction to print and fabricate DIY acrylic Box
 
