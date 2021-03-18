@@ -42,9 +42,11 @@ For configuration and test of the all the components, please follow the instruct
 #### 5. Folder
  
 a. Src: 
+
 a1. script_sensor_PAJ7620U2. The code that launches the video, the sensor and the command instruction to translate sensor output to media player commands.
 
 b.  Doc:
+
 b1. Rhino6 model related to built DIY acrylic Box.
 
 b2. Video example to run.

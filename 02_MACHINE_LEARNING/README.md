@@ -1,8 +1,8 @@
 # Machine Learning
 
-#### 2. Machine Learning
+In this folder, in docs, you will find several images as results of the training network and also in src, you will find the script to run this training.
 
-In this folder, you will find several libraries needed in order to run the example script that is also provided in the Scripts folder.
+#### 2. Machine Learning
 
 The idea of this research is to collect data of existing architectural elements within the city of Barcelona and to feed this into a Generative Adversarial Network to train an AI with our own Dataset with the aim to come up with alternative articulations.
 We are using the StyleGAN2 Repository of NVIDIA Labs in cmbination with running the training in Google Colab. The cloning of the Github Repository happens inside of the Goolge Colab file into your own Google Drive.
