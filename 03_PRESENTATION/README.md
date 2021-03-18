@@ -18,6 +18,10 @@ You will need the following softwares installed:
 
 1. [omxplayer](https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md)
 
+#### Driver
+
+1. [BCM21553 Graphics Driver](https://docs.broadcom.com/docs/12358546). All needed drivers and system to run the gesture sensor on the Raspberry Pi.
+
 #### Components that are necessary to run and visualize Pepper Ghost's effect:
 
 a. Raspberry Pi 3
@@ -29,7 +33,6 @@ d. DIY acrylic Box
  
 a. Src: 
 a1. script_sensor_PAJ7620U2. The code that launches the video, the sensor and the command instruction to translate sensor output to media player commands.
-a2. bcm2835.64. All needed drivers and system to run the gesture sensor on the Raspberry Pi.
 
 b.  Doc:
 b1. Rhino model related to built DIY acrylic Box.
