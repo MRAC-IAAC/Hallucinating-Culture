@@ -7,9 +7,15 @@ All the files, scripts, repositories and softwares are need to install in Raspbe
 #### 1. Components that are necessary to run and visualize Pepper Ghost's effect:
 
 a. Raspberry Pi 3
+
 b. Gesture Sensor PAJ7620U2
-c. LCD Screen
+
+c. LCD Screen 17"
+
 d. DIY acrylic Box
+
+e. hdmi mini to vga or hdmi cable
+
 
 #### 2. Github
 
